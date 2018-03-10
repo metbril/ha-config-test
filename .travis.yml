@@ -6,5 +6,6 @@ before_install:
 install:
   # - pip3 install homeassistant==0.64.3
   - pip3 install homeassistant
+  - hass --version
 script:
   - hass -c . --script check_config
