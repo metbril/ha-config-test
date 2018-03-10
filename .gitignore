@@ -1,0 +1,17 @@
+# HA specific folders
+/.cloud
+/deps
+/tts
+
+# HA specific files
+.HA_VERSION
+.uuid
+entity_registry.yaml
+home-assistant_v2.db
+home-assistant.log
+
+# Python
+__pycache__
+
+# MacOS
+.DS_Store
