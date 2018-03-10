@@ -9,6 +9,7 @@
 entity_registry.yaml
 home-assistant_v2.db
 home-assistant.log
+secrets.yaml
 
 # Python
 __pycache__
